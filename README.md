@@ -1,0 +1,3 @@
+### README
+
+so these are just my pytorch notes so far. Please ignore for now. Eventually I might clean them up and make them useable, but for the time-being it's just a matter of testing out this idea of open-sourcing my life as a principle. If/when I do clean up these notes, the guide will be focused on teaching pytorch to people who already have a thorough understanding of both Python and the math behind ML. I think that's an extremely small demographic (because of the second criteria--who the hell thoroughly understands ML but has never touched the code other than me?) but it's an issue I faced while looking for a learning guide; they were all boring me to death babying me through the math and occasionally through python as well.
